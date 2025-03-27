@@ -53,6 +53,10 @@ jobs:
 
       - name: Run RSS to Markdown Script
         run: python3 assets/scripts/rss_to_md.py
+        
+      - name: List _stock-news folder
+        run: ls -la _stock-news
+
 
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
