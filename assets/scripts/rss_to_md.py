@@ -56,9 +56,10 @@ for source_name, feed_url in feed_urls:
             continue
 
         try:
+            safe_title = title.replace('"', '\\"')  # 혹은 간단히 title.replace('"', '')
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(f"""---
-title: {safe_title}
+title: "{safe_title}"
 date: {date.strftime('%Y-%m-%d %H:%M:%S %z')}
 categories: [stock-news]
 source: {source_name}
