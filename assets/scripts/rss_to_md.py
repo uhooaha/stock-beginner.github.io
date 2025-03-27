@@ -58,7 +58,7 @@ for source_name, feed_url in feed_urls:
         try:
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(f"""---
-title: "오늘의 주식 시장은?"
+title: {safe_title}
 date: {date.strftime('%Y-%m-%d %H:%M:%S %z')}
 categories: [stock-news]
 source: {source_name}
