@@ -46,9 +46,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-              python-version: '3.x'
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install feedparser
+
       - name: Run RSS to Markdown Script
         run: python3 assets/scripts/rss_to_md.py
+
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
