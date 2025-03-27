@@ -1,0 +1,9 @@
+---
+layout: default
+title: "오늘의 주식 시장은?"
+permalink: /stock-news/
+---
+
+{% for post in site.stock-news %}
+  {% include postbox.html %}
+{% endfor %}
