@@ -9,6 +9,8 @@ feed_urls = [
     ('chosun', 'https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml'),
     ('cointelegraph', 'https://kr.cointelegraph.com/editors_pick_rss'),
     ('cointelegraph', 'https://kr.cointelegraph.com/rss/tag/altcoin'),
+    ('investing', 'https://kr.investing.com/rss/forex_Signals.rss'),
+    
     # 여기에 다른 신문사의 RSS URL을 추가하세요.
 ]
 
