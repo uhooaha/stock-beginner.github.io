@@ -52,8 +52,7 @@ jobs:
         run: pip install feedparser
 
       - name: Install Python dependencies
-        run: |
-            pip install feedparser requests
+        run: pip install feedparser requests
 
 
       - name: Run RSS to Markdown Script
