@@ -7,7 +7,7 @@ import re
 # 여러 신문사의 RSS 피드 URL 목록
 feed_urls = [
     ('chosun', 'https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml'),
-    ('etnews', 'https://rss.etnews.com/section.xml?section_id=101'),
+    ('cointelegraph', 'https://kr.cointelegraph.com/editors_pick_rss'),
     # 여기에 다른 신문사의 RSS URL을 추가하세요.
 ]
 
