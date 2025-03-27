@@ -10,7 +10,7 @@ feed_urls = [
     ('cointelegraph', 'https://kr.cointelegraph.com/editors_pick_rss'),
     ('cointelegraph', 'https://kr.cointelegraph.com/rss/tag/altcoin'),
     ('investing', 'https://kr.investing.com/rss/forex_Signals.rss'),
-    
+    ('mk.co.kr', 'https://https://www.mk.co.kr/rss/50200011/'),
     # 여기에 다른 신문사의 RSS URL을 추가하세요.
 ]
 
