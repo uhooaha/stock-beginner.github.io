@@ -21,6 +21,7 @@ authors:
     display_name: uhooaha
     avatar: 'assets/images/profile_favicon.png'
     email: uhooaha@kakao.com
+    
     # web: https://www.wowthemes.net/donate/
     # twitter: https://twitter.com/wowthemesnet
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
@@ -87,4 +88,5 @@ collections:
   stock-news:
     output: true
     permalink: /stock-news/:name/
+    source_name:  source_name
 
