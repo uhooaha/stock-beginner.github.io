@@ -19,12 +19,11 @@
         <div class="card-body">
             <h2 class="card-title">
                 {% if post.source %}
-                  {# 자동 생성된 뉴스 포스트라면, 커스텀 URL 사용 #}
-                  <a class="text-dark title" href="{{ site.baseurl }}/stock-news/{{ post.slug }}/">{{ post.title }}</a>
-                {% else %}
-                  {# 일반 포스트라면 기본 URL 사용 #}
-                  <a class="text-dark title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                {% endif %}
+  <a class="text-dark title" href="{{ site.baseurl }}/stock-news/{{ post.slug }}/">{{ post.title }}</a>
+{% else %}
+  <a class="text-dark title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+{% endif %}
+
                 {% if post.rating %}
                   <div class="mb-2 mt-2 font-weight-normal">
                     {% include star_rating_postbox.html %}
