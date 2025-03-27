@@ -1,0 +1,17 @@
+---
+layout: category
+title: "오늘의 주식 시장은?"
+category: stock-news
+permalink: /stock-news/
+description: "오늘의 주식 시장 뉴스 모음입니다. 코스피, 코스닥, 미국 증시 등 최신 정보를 자동으로 수집해 보여드립니다."
+keywords: ["주식 뉴스", "증시 동향", "코스피", "미국 증시", "코스닥"]
+---
+
+<h2>📰 오늘의 주식 시장 뉴스</h2>
+
+<div class="blog-grid-container">
+  {% assign posts = site.stock-news | sort: 'date' | reverse %}
+  {% for post in posts %}
+    {% include postbox.html %}
+  {% endfor %}
+</div>

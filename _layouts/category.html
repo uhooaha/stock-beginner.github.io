@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% assign slug = page.category %}
+{% assign category_map = site.data.category_map %}
+
+<h1>{{ category_map[slug] | default: slug }}</h1>
+
+<div class="blog-grid-container">
+  {% for post in site.posts %}
+    {% if post.categories contains slug %}
+      {% include postbox.html %}
+    {% endif %}
+  {% endfor %}
+</div>

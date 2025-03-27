@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>초보 주린이의 투자일지</title>
+    <description>주식 시작한지 얼마안된 주린이의 좌충우돌 투자일지</description>
+    <link>http://localhost:4000/stock-beginner.github.io/</link>
+    <atom:link href="http://localhost:4000/stock-beginner.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Mar 2025 13:16:36 +0900</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 13:16:36 +0900</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>주식, 드디어 시작해 버리다!</title>
+        <description>&lt;p&gt;오늘은 모의투자를 시작한 첫날이었다.
+시작 전에는 유튜브를 통해 증권사 프로그램의 기본 사용법과 호가창 보는 법, 스캘핑에 대한 영상들을 참고했다. 전반적인 투자 감각을 익히기 위해 공부를 나름대로 했다고 생각했지만, 막상 시장에 진입하니 전혀 다른 세계였다.&lt;/p&gt;
+
+&lt;p&gt;500만 원을 기준으로 하루 손실 -30만 원을 넘기지 않겠다는 나름의 원칙을 세우고 시작했다. 하지만 첫날부터 이 원칙이 얼마나 쉽게 흔들리는지를 실감하게 되었다.&lt;/p&gt;
+
+&lt;p&gt;컴퓨터가 윈도우가 아니라 맥이라 증권사에서 제공하는 프로그램을 제대로 사용할 수 없었고, 결국 모바일 앱으로 주문을 시작하게 되었다. 모바일로는 호가 주문을 제대로 해보지 못했기에, 상대적으로 저렴한 3,000원대 종목을 선택해 실험해보기로 했다. 하지만 수량 입력 방식 자체를 몰랐던 탓에, 눈앞에서 좋은 매수 타이밍을 몇 차례 놓쳤다. 창을 열고 닫는 구조로 되어 있어 수 초 단위의 딜레이가 발생했고, 그 사이에 주가는 이미 움직여 있었다.&lt;/p&gt;
+
+&lt;p&gt;그러다 메뉴 안에서 ‘주문’이라는 항목을 발견하게 되었는데, 너무 기본적인 위치임에도 불구하고 당시엔 마음이 너무 상기되어 있던 탓인지 그 메뉴를 미처 보지 못했다. 이 작은 혼란이 나를 더 혼란스럽게 만들었다. 결국 스스로가 과하게 흥분해 있음을 자각하고 잠깐 마음을 진정시켰다. 다행히 수량 입력 정도는 익힐 수 있게 되었고, 몇 종목에서 운 좋게 수익도 올릴 수 있었다. 특히 매수 타이밍을 실수로 놓쳐 늦게 들어간 종목이 오히려 수익을 내는 아이러니한 상황도 있었다. 수량이 많지 않아도 주당 몇십 원씩 차익을 얻으면서 9만 원가량의 수익을 거두기도 했다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jan 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/stock-note-start/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/stock-note-start/</guid>
+        
+        <category>주식</category>
+        
+        
+        <category>stock-note</category>
+        
+      </item>
+    
+      <item>
+        <title>Much more than a desert: A trip into the Sahara</title>
+        <description>&lt;p&gt;The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name ‘Sahara’ is derived from a dialectal Arabic word for “desert”, ṣaḥra (صحرا /ˈsˤaħra/).&lt;/p&gt;
+
+&lt;p&gt;The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains.&lt;/p&gt;
+
+&lt;p&gt;To the south, it is bounded by the Sahel, a belt of &lt;strong&gt;semi-arid tropical savanna&lt;/strong&gt; around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.&lt;/p&gt;
+
+&lt;p&gt;For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth’s axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/much-more-than-a-desert-trip-to-sahara/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/much-more-than-a-desert-trip-to-sahara/</guid>
+        
+        
+        <category>stock-news</category>
+        
+      </item>
+    
+      <item>
+        <title>One day we just started our adventure</title>
+        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet.&lt;/p&gt;
+
+&lt;p&gt;Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/one-day-just-started-adventure/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/one-day-just-started-adventure/</guid>
+        
+        
+        <category>stock-news</category>
+        
+      </item>
+    
+      <item>
+        <title>London is that kind of place you must visit in this lifetime</title>
+        <description>&lt;p&gt;The Queen’s Guard and Queen’s Life Guard (called King’s Guard and King’s Life Guard when the reigning monarch is male) are the names given to contingents of infantry and cavalry soldiers charged with guarding the official royal residences in the United Kingdom. The British Army has regiments of both Horse Guards and Foot Guards predating the English Restoration (1660), and since the reign of King Charles II these regiments have been responsible for guarding the Sovereign’s palaces. The Guards are fully operational soldiers.&lt;/p&gt;
+
+&lt;p&gt;The Queen’s Guard and Queen’s Life Guard are mounted at the royal residences that come under the operating area of the British Army’s London District, which is responsible for the administration of the Household Division. This covers Buckingham Palace, St James’s Palace and the Tower of London, as well as Windsor Castle. The Queen’s Guard is also mounted at the sovereign’s other official residence, the Palace of Holyroodhouse, but not as often as in London. In Edinburgh, the guard is the responsibility of the resident infantry battalion at Redford Barracks. It is not mounted at the Queen’s private residences at Sandringham or Balmoral.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Queen’s Guard is the name given to the contingent of infantry responsible for guarding Buckingham Palace and St James’s Palace (including Clarence House) in London. The guard is made up of a company of soldiers from a single regiment, which is split in two, providing a detachment for Buckingham Palace and a detachment for St James’s Palace. Because the Sovereign’s official residence is still St James’s, the guard commander (called the captain of the guard) is based there, as are the regiment’s colours.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When the Sovereign is in residence, the Queen’s Guard numbers three officers and forty other ranks, with four sentries each posted at Buckingham Palace (on the forecourt) and St James’s Palace (two in Friary Court, two at the entrance to Clarence House).&lt;/p&gt;
+
+&lt;p&gt;This reduces to three officers and 31 ORs, with two sentries each, when the Sovereign is not in residence. The Queen’s Guard is not purely ceremonial in nature. They provide sentries during the day and night, and during the later hours, they patrol the grounds of the Palace.&lt;/p&gt;
+
+&lt;p&gt;Until 1959, the sentries at Buckingham Palace were stationed outside the fence. This stopped following an incident involving a female tourist and a Coldstream Guardsman – due to the continued pestering by tourists and sightseers, the guardsman kicked the tourist on the ankle as he marched. The tourist made a complaint to the police and the sentry was confined to barracks for ten days. Not long after, the sentries were moved inside the fence.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/london/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/london/</guid>
+        
+        
+        <category>stock-utilizing-tip</category>
+        
+      </item>
+    
+      <item>
+        <title>Memoirs supports external images as featured</title>
+        <description>&lt;p&gt;Adding images is a very annoying task, I know that, but “Memoirs” theme has external featured images integrated so your publishing task becomes easier now.&lt;/p&gt;
+
+&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+
+&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+
+&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+
+&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/external-featured-image/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/external-featured-image/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>stock-note</category>
+        
+        <category>stock-keyword</category>
+        
+      </item>
+    
+      <item>
+        <title>Spoliers Inside - a film review needs hidden spoilers like this post</title>
+        <description>&lt;p&gt;Director Roland Suso Richter’s enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney’s own play “Point of Death” - a title that gave away the film’s entire plot twist premise.&lt;/p&gt;
+
+&lt;p&gt;As in many similar films, such as Jacob’s Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“When You Don’t Have a Memory, How Can You Remember Who to Trust?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a &lt;span class=&quot;spoiler&quot;&gt; hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident – but he had been revived (“You’re as good as new”).&lt;/span&gt; Dr. Newman: “Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside.”&lt;/p&gt;
+
+&lt;h4 id=&quot;what-critiques-say&quot;&gt;What critiques say?&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“There’s almost no single moment in Portrait of a Lady on Fire that couldn’t be captured, mounted, and hung on a wall as high art.” &lt;cite&gt;— Entertainment Weekly&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): Everybody dies. No mystery there. But why and how everyone dies. Now, there’s a mystery worth solving. Probably the biggest mystery there is.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-how-do-we-add-spoilers-in-this-theme&quot;&gt;So how do we add spoilers in this theme?&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;span class=&quot;spoiler&quot;&amp;gt;My hidden paragraph here.&amp;lt;/span&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sat, 11 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/post-with-spoiler/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/post-with-spoiler/</guid>
+        
+        <category>Movies</category>
+        
+        
+        <category>stock-keyword</category>
+        
+      </item>
+    
+      <item>
+        <title>That day when we almost missed our flight</title>
+        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/that-day-we-almost-missed-flight/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/that-day-we-almost-missed-flight/</guid>
+        
+        
+        <category>stock-utilizing-tip</category>
+        
+      </item>
+    
+      <item>
+        <title>Reviewing the best Oscar movies of all time</title>
+        <description>&lt;p&gt;Review products, books, movies, restaurant and anything you like on your Jekyll blog with &lt;strong&gt;Memoirs&lt;/strong&gt;! JSON-LD ready for review property.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+
+&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;---
+layout: post
+title:  &quot;Inception Movie&quot;
+author: john
+categories: [ Lifestyle ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: &quot;My review of Inception movie. Actors, directing and more.&quot;
+rating: 4.5
+---
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/review-oscar/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/review-oscar/</guid>
+        
+        <category>Movies</category>
+        
+        
+        <category>stock-utilizing-tip</category>
+        
+      </item>
+    
+      <item>
+        <title>French Wine has to compete with many new world wines</title>
+        <description>&lt;p&gt;French wine is produced all throughout France, in quantities between 50 and 60 million hectolitres per year, or 7–8 billion bottles. France is one of the largest wine producers in the world, along with Italian, Spanish, and American wine-producing regions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;French wine traces its history to the 6th century BC, with many of France’s regions dating their wine-making history to Roman times. The wines produced range from expensive wines sold internationally to modest wines usually only seen within France such as the Margnat wines were during the post war period.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Two concepts central to the better French wines are the notion of terroir, which links the style of the wines to the locations where the grapes are grown and the wine is made and the Appellation d’origine contrôlée (AOC) system, replaced by the Appellation d’Origin Protégée (AOP) system in 2012.&lt;/p&gt;
+
+&lt;p&gt;Appellation rules closely define which grape varieties and winemaking practices are approved for classification in each of France’s several hundred geographically defined appellations, which can cover regions, villages or vineyards.&lt;/p&gt;
+
+&lt;p&gt;France is the source of many grape varieties (such as &lt;strong&gt;Cabernet Sauvignon, Chardonnay, Pinot noir, Sauvignon blanc, Syrah&lt;/strong&gt;) that are now planted throughout the world, as well as wine-making practices and styles of wine that have been adopted in other producing countries.&lt;/p&gt;
+
+&lt;p&gt;Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/french-wine/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/french-wine/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>stock-keyword</category>
+        
+      </item>
+    
+      <item>
+        <title>The Observer - National Gallery of Art, Washington, United States</title>
+        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
+
+&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
+
+&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/stock-beginner.github.io/the-observer/</link>
+        <guid isPermaLink="true">http://localhost:4000/stock-beginner.github.io/the-observer/</guid>
+        
+        
+        <category>stock-keyword</category>
+        
+      </item>
+    
+  </channel>
+</rss>

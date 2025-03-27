@@ -1,0 +1,11 @@
+{% assign category_map = site.data.category_map %}
+{% assign slug = include.slug %}
+
+<h4 class="mt-5 mb-neg-30" id="{{ slug | replace: " ","-" }}">
+  <span class="text-capitalize badge badge-primary text-small">
+    {{ category_map[slug] | default: slug }}
+  </span>
+</h4>
+
+<!-- DEBUG: slug={{ slug }}, name={{ category_map[slug] | default: '없음' }} -->
+

@@ -13,9 +13,17 @@
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    (function(d) {
+      var config = {
+        kitId: 'fgv7bsa',
+        scriptTimeout: 3000,
+        async: true
+      },
+      h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+  </script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -49,12 +57,20 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>      
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <h3>좌충우돌 투자일지</h3>
+        <li><a href="{{ site.baseurl }}/categories/stock-note">좌충우돌 주식 투자일지</a></li>
+        <li><a href="{{ site.baseurl }}/categories/stock-keyword">초보 주린이의 필수 주식 키워드</a></li>
+        <li><a href="{{ site.baseurl }}/categories/stock-utilizing-tip">여기저기서 모아본 주식 꿀팁</a></li>
+        <li><a href="{{ site.baseurl }}/stock-news">오늘의 주식 시장은?</a></li>
+        <li><a href="{{ site.baseurl }}/authors">주린이는</a></li>
+
+        <!--<span class="badge badge-primary">new</span>-->
+        <!--
+
+            <li><a href="{{ site.baseurl }}/about">About</a></li>
+                <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>      
+        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>   
+        -->    
     </ul>   
 </nav>
 
@@ -79,7 +95,7 @@
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
-        <p class="sitetag">
+        <p class="sitetag title">
             {{ site.description }}
         </p>
     {% endif %}
@@ -94,7 +110,7 @@
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <span class="h4">Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
             <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>

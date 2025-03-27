@@ -1,0 +1,34 @@
+name: Fetch Stock News
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 매일 오전 10시 (KST)
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install feedparser
+        run: pip install feedparser
+
+      - name: Generate markdown from RSS
+        run: python3 assets/scripts/rss_to_md.py
+
+      - name: Commit and push new posts
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@example.com"
+          git add _stock-news/*.md
+          git commit -m "📰 자동 뉴스 포스트 추가"
+          git push
+        continue-on-error: true
