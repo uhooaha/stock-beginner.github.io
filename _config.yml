@@ -87,3 +87,4 @@ collections:
   stock-news:
     output: true
     permalink: /stock-news/:name/
+

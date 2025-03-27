@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 title: "오늘의 주식 시장은?"
 category: stock-news
 permalink: /stock-news/
@@ -10,8 +10,7 @@ keywords: ["주식 뉴스", "증시 동향", "코스피", "미국 증시", "코�
 <h2>📰 오늘의 주식 시장 뉴스</h2>
 
 <div class="blog-grid-container">
-  {% assign posts = site.stock-news | sort: 'date' | reverse %}
-  {% for post in posts %}
+  {% for post in site.stock-news %}
     {% include postbox.html %}
   {% endfor %}
 </div>
