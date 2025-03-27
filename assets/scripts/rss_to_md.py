@@ -9,7 +9,7 @@ feed = feedparser.parse(feed_url)
 
 # 디버깅: 파싱된 뉴스 항목 개수 출력
 print(f"Total entries found: {len(feed.entries)}")
-
+# 똑똑하네 깃 
 # 저장 경로
 target_dir = "_stock-news"
 os.makedirs(target_dir, exist_ok=True)
