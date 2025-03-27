@@ -8,6 +8,7 @@ import re
 feed_urls = [
     ('chosun', 'https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml'),
     ('cointelegraph', 'https://kr.cointelegraph.com/editors_pick_rss'),
+    ('cointelegraph', 'https://kr.cointelegraph.com/rss/tag/altcoin'),
     # 여기에 다른 신문사의 RSS URL을 추가하세요.
 ]
 
@@ -56,14 +57,14 @@ for source_name, feed_url in feed_urls:
             continue
 
         try:
-            safe_title = title.replace('"', '\\"')  # 혹은 간단히 title.replace('"', '')
+            safe_title = title.replace('"', '\\"')  # 큰따옴표 이스케이프
+            safe_link = link.replace('"', '\\"')    # 혹시 모를 경우 대비
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(f"""---
 title: "{safe_title}"
 date: {date.strftime('%Y-%m-%d %H:%M:%S %z')}
 categories: [stock-news]
-source: {source_name}
-slug: {slug}
+article_link: "{safe_link}"
 ---
 
 - **기사 제목**: [{title}]({link})

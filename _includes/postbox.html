@@ -18,18 +18,19 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                {% if post.source %}
-  <a class="text-dark title" href="{{ site.baseurl }}/stock-news/{{ post.slug }}/">{{ post.title }}</a>
-{% else %}
-  <a class="text-dark title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-{% endif %}
-
-                {% if post.rating %}
-                  <div class="mb-2 mt-2 font-weight-normal">
-                    {% include star_rating_postbox.html %}
-                  </div>
+                {% if post.article_link %}
+                  <!-- 자동 생성 뉴스: 외부 링크 -->
+                  <a class="text-dark title" href="{{ post.article_link }}" target="_blank" rel="noopener">
+                    {{ post.title }}
+                  </a>
+                {% else %}
+                  <!-- 일반 포스트: 로컬 URL -->
+                  <a class="text-dark title" href="{{ site.baseurl }}{{ post.url }}">
+                    {{ post.title }}
+                  </a>
                 {% endif %}
               </h2>
+              
               
             <!--
             <h2 class="card-title">
