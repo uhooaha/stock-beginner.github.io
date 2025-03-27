@@ -55,7 +55,11 @@
                 {% endif %}
                 </span>
                 <span class="author-meta">
+                {% if post.author %}
                 <span class="post-name font-weight-bold">{{ author.display_name }}</span> 
+                {% else %}
+                <span class="post-name font-weight-bold">{{ author.source_name }}</span> 
+                {% endif %}
                 {% endif %}
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>
