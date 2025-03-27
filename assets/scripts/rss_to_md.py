@@ -67,6 +67,7 @@ title: "{safe_title}"
 date: {date.strftime('%Y-%m-%d %H:%M:%S %z')}
 categories: [stock-news]
 article_link: "{safe_link}"
+source_name: {slug}
 ---
 
 - **기사 제목**: [{title}]({link})
