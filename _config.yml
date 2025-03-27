@@ -88,5 +88,5 @@ collections:
   stock-news:
     output: true
     permalink: /stock-news/:name/
-    source_name:  source_name
+    source_name:  slug
 
