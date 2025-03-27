@@ -5,7 +5,7 @@ description: "주식 시작한지 얼마안된 주린이의 좌충우돌 투자�
 logo: 'assets/images/profile_icon.png'
 favicon: 'assets/images/profile_favicon.png'
 # baseurl: /jekyll-theme-memoirs
-baseurl: /stock-beginner.github.io  # 리포지토리 이름
+baseurl: "" #/stock-beginner.github.io  # 리포지토리 이름
 url: "https://www.chungchoon98.com"   # 커스텀 도메인
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
