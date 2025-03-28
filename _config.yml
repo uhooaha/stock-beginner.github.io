@@ -95,10 +95,13 @@ title: 초보 주린이의 투자일지
 
 author:
   name: uhooaha
-  url: https://www.chungchoon98.com/stock-beginner.github.io
+  
 
 logo: /assets/images/logo.png
 
 description: >
   주식을 처음 시작한 초보 투자자가 모의투자와 실전 경험을 바탕으로 
   기록하는 투자일지 블로그입니다. 감정, 판단 근거, 실수까지 모두 기록합니다.
+
+  
+url: https://www.chungchoon98.com/stock-beginner.github.io
