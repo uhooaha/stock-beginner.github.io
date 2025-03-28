@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "투자일지 둘째날 – 덜 흔들렸지만 여전히 어렵다"
-author: sal
+summary: 키움증권 모의투자 둘째날 기록. 시드 회전 계산, 리딩방 체험, 수익 시뮬레이션까
+author: uhooaha
 categories: [ stock-note ]
 tags: [주식, 주식일지, 키움증권, 모의투자, 단타매매, 감정매매, 손절실패, 초보투자자, 차트매매, HTS학습]
 image: assets/images/2.jpg
-date: 2025-01-14
+date: 2025-01-14지.
 ---
+
 
 # 📉 투자일지 둘째날 – 덜 흔들렸지만 여전히 어렵다
 
